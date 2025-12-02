@@ -136,8 +136,8 @@ This project was created under the guidance and support of the faculty of the
 # 🛠️ System Architecture
 
 ```md
-![System Architecture](assets/icon/architecture.png)
-![System Architecture](assets/architecture.png)
+![Alt Text](https://github.com/buuuuds/Smart-Agri-Leafy-Shield/blob/main/assets/icon/architecture.png)
+
 
 
 
