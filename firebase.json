@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "agri-leafy",
+          "appId": "1:1009772294409:android:e8ed1fbd71b29382d223d8",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "agri-leafy",
+          "configurations": {
+            "android": "1:1009772294409:android:e8ed1fbd71b29382d223d8",
+            "ios": "1:1009772294409:ios:dd0984b4948d2f03d223d8",
+            "macos": "1:1009772294409:ios:dd0984b4948d2f03d223d8",
+            "web": "1:1009772294409:web:02540235b4085889d223d8",
+            "windows": "1:1009772294409:web:10bda68cd987e247d223d8"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

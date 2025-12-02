@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009772294409",
+    "project_id": "agri-leafy",
+    "storage_bucket": "agri-leafy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009772294409:android:e8ed1fbd71b29382d223d8",
+        "android_client_info": {
+          "package_name": "com.example.capstone2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-NMPIHMLSyigaC0nZ_heGH_6z397Pgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
