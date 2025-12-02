@@ -45,6 +45,17 @@ The system automates:
 
 Designed for **small-scale Filipino farmers**, the system improves crop health, reduces labor, and supports climate-resilient agriculture.
 
+
+# 📸 Project Images
+![Architecture](assets/icon/architecture.png)
+
+![Dashboard](assets/icon/dashboard.png)
+
+![Prototype](assets/icon/prototype.png)
+
+![Structure](assets/icon/structure.png)
+
+
 ---
 
 # 🚀 Key Features
@@ -132,11 +143,6 @@ This project was created under the guidance and support of the faculty of the
 **Batangas State University – The National Engineering University (NEU)**
 
 ---
-
-# 🛠️ System Architecture
-
-```md
-![Alt Text](https://github.com/buuuuds/Smart-Agri-Leafy-Shield/blob/main/assets/icon/architecture.png)
 
 
 
