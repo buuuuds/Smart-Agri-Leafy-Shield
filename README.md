@@ -79,12 +79,6 @@ Designed for **small-scale Filipino farmers**, the system improves crop health, 
 
 ---
 
-# 🛠️ System Architecture
-
-```md
-![System Architecture](assets/architecture.png)
-
----
 # 💻 Software & Technologies
 
 - **Arduino IDE**
@@ -138,5 +132,12 @@ This project was created under the guidance and support of the faculty of the
 **Batangas State University – The National Engineering University (NEU)**
 
 ---
+
+# 🛠️ System Architecture
+
+```md
+![System Architecture](assets/icon/architecture.png)
+![System Architecture](assets/architecture.png)
+
 
 
